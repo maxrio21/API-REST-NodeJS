@@ -1,4 +1,4 @@
-// jwt.js
+//jwt.js
 
 const jwt = require('jsonwebtoken');
 const logger = require('../utils/logger');
