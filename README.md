@@ -47,12 +47,9 @@ Esta organización en capas permite una clara separación de las responsabilidad
 
 ---
 
-**Cómo Contribuir:**
+**Uso del Proyecto:**
 
-1. Clona este repositorio.
-2. Configura el entorno de desarrollo.
-3. Explora las carpetas correspondientes a cada capa.
-4. Contribuye a las capas específicas según las necesidades del negocio.
+Este proyecto proporciona la API que se integra con la aplicación FITRACK. No está diseñado para contribuciones externas, sino para ser utilizado como componente backend de FITRACK (una aplicación).
 
 **Configuración del Entorno de Desarrollo:**
 
@@ -140,4 +137,4 @@ Hemos separado los logs de errores y los logs completos para facilitar la depura
 
 ---
 
-Siéntete libre de contribuir, mejorar y personalizar según las necesidades de tu aplicación. ¡Feliz desarrollo!
+Este proyecto es el componente backend de FITRACK, diseñado para su uso exclusivo en conjunto con la aplicación FITRACK. No está destinado a contribuciones externas.
